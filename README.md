@@ -31,7 +31,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web passionné par la 
 ## Mes Compétences
 
 - **Développement Front-End** : HTML, CSS, JavaScript, Typescript, React, Next.js
-- **Développement Back-End** : Node.js, Express.js, PHP, Symfony
+- **Développement Back-End** : Node.js, Express.js, PHP, Symfony, Java
 - **Base de données** : MySQL, PostgreSQL, MongoDB
 - **Gestion de projet** : Agile, Scrum, GitHub, Trello
 - **Optimisation de la performance et SEO**
