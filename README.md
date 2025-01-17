@@ -30,8 +30,8 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web passionné par la 
 
 ## Mes Compétences
 
-- **Développement Front-End** : HTML, CSS, JavaScript, React, Next.js
-- **Développement Back-End** : Node.js, Express, PHP, Python
+- **Développement Front-End** : HTML, CSS, JavaScript, Typescript, React, Next.js
+- **Développement Back-End** : Node.js, Express.js, PHP, Symfony
 - **Base de données** : MySQL, PostgreSQL, MongoDB
 - **Gestion de projet** : Agile, Scrum, GitHub, Trello
 - **Optimisation de la performance et SEO**
@@ -39,6 +39,6 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web passionné par la 
 ## Contact
 
 - **Email** : [contact@fmenoni.com](mailto:contact@fmenoni.com)
-- **LinkedIn** : [Fabian Menoni](https://www.linkedin.com/in/fabianmenoni)
+- **LinkedIn** : [Fabian Menoni](https://www.linkedin.com/in/fab-men/)
 
 Merci de visiter mon profil et n'hésitez pas à me contacter pour toute question ou proposition de collaboration !
